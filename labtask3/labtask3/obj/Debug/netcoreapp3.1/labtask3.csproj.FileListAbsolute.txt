@@ -1,0 +1,4 @@
+C:\Users\Bristi Gayali\source\repos\FINAL\labtask3\labtask3\obj\Debug\netcoreapp3.1\labtask3.csprojAssemblyReference.cache
+C:\Users\Bristi Gayali\source\repos\FINAL\labtask3\labtask3\obj\Debug\netcoreapp3.1\labtask3.AssemblyInfoInputs.cache
+C:\Users\Bristi Gayali\source\repos\FINAL\labtask3\labtask3\obj\Debug\netcoreapp3.1\labtask3.AssemblyInfo.cs
+C:\Users\Bristi Gayali\source\repos\FINAL\labtask3\labtask3\obj\Debug\netcoreapp3.1\labtask3.csproj.CoreCompileInputs.cache
